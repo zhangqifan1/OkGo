@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_warning_circle.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_red_button_background.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_gray_button_background.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_error_circle.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_alert_dialog.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_blue_button_background.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_warning_sigh.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_modal_in.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_error_center_x.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_success_mask_layout.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_dialog_background.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_success_bow_roate.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_success_bow.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_modal_out.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_error_x_in.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_error_frame_in.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_success_circle.xml.flat",
+        "source": "E:\\zhangqf2\\RxHttpUtils\\xAlertDialogLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\success_circle.xml"
+    }
+]
